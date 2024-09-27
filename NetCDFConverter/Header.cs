@@ -127,7 +127,7 @@ namespace NetCDFConverter
             foreach (Variable v in this.var_list) {
                 if (fs.Position != v.begin)
                 {
-                    throw new FileFormatException("The variable " + v.name + " begins at " + v.begin + " but the stream is at " + fs.Position + " probably because the file is malformed.");
+                    throw new FormatException("The variable " + v.name + " begins at " + v.begin + " but the stream is at " + fs.Position + " probably because the file is malformed.");
                 }
                 byte[][] data = NetCDFTools.values(v.type, v.length, fs, true);
 

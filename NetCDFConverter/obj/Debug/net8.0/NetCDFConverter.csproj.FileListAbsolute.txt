@@ -1,0 +1,12 @@
+C:\Users\npist\source\repos\NetCDFConverter\NetCDFConverter\obj\Debug\net8.0\NetCDFConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\npist\source\repos\NetCDFConverter\NetCDFConverter\obj\Debug\net8.0\NetCDFConverter.AssemblyInfoInputs.cache
+C:\Users\npist\source\repos\NetCDFConverter\NetCDFConverter\obj\Debug\net8.0\NetCDFConverter.AssemblyInfo.cs
+C:\Users\npist\source\repos\NetCDFConverter\NetCDFConverter\obj\Debug\net8.0\NetCDFConverter.csproj.CoreCompileInputs.cache
+C:\Users\npist\source\repos\NetCDFConverter\NetCDFConverter\obj\Debug\net8.0\NetCDFConverter.sourcelink.json
+C:\Users\npist\source\repos\NetCDFConverter\NetCDFConverter\bin\Debug\net8.0\NetCDFConverter.deps.json
+C:\Users\npist\source\repos\NetCDFConverter\NetCDFConverter\bin\Debug\net8.0\NetCDFConverter.dll
+C:\Users\npist\source\repos\NetCDFConverter\NetCDFConverter\bin\Debug\net8.0\NetCDFConverter.pdb
+C:\Users\npist\source\repos\NetCDFConverter\NetCDFConverter\obj\Debug\net8.0\NetCDFConverter.dll
+C:\Users\npist\source\repos\NetCDFConverter\NetCDFConverter\obj\Debug\net8.0\refint\NetCDFConverter.dll
+C:\Users\npist\source\repos\NetCDFConverter\NetCDFConverter\obj\Debug\net8.0\NetCDFConverter.pdb
+C:\Users\npist\source\repos\NetCDFConverter\NetCDFConverter\obj\Debug\net8.0\ref\NetCDFConverter.dll
